@@ -12,6 +12,10 @@
   * 之前的servlet
 * 3.4 配置开关
 * 3.5 javax.ws.rs.core.Application
-  * 这是一个标准的JAX-RS类。
-  * If your web.xml file does not have a <servlet-mapping> element, you must use an Application
-class annotated with @ApplicationPath.
+* 3.6 RESTEasy as a ServletContextListener
+* 3.7 RESTEasy as a Servlet Filter
+* 3.8 Client side
+* 4 Using @Path and @GET, @POST, etc
+* 5 @PathParam
+* 6 @QueryParam
+* 7 @HeaderParam
